@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/near-earth-objects.iml" filepath="$PROJECT_DIR$/.idea/modules/near-earth-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/near-earth-objects_main.iml" filepath="$PROJECT_DIR$/.idea/modules/near-earth-objects_main.iml" group="near-earth-objects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/near-earth-objects_test.iml" filepath="$PROJECT_DIR$/.idea/modules/near-earth-objects_test.iml" group="near-earth-objects" />
+    </modules>
+  </component>
+</project>
